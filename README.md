@@ -138,3 +138,7 @@ Players embody a kangaroo character with unique abilities, such as hopping, kick
 
 ### 10.2. Development Team
 - List the key members of the development team responsible for bringing "Krazy Roo" to life.
+
+***
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
+#
